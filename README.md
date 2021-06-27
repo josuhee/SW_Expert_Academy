@@ -1,3 +1,4 @@
+<hr/>  
 <h3 align="center">🌱 SW Expert Academy 🌱</h3>  
 <hr/>  
 
